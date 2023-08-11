@@ -24,4 +24,4 @@ python3 main.py
 ```
 
 ## [-] Preview
-![index](https://raw.githubusercontent.com/MrG3P5/ReverseIP-Rust/main/Screenshot_2023-08-10_23_53_24.png)
+![index](https://raw.githubusercontent.com/MrG3P5/NIK-Checker/main/Screenshot_2023-08-12_01_18_31.png)
